@@ -1,0 +1,8 @@
+{
+	"name": "News",
+	"version": "1.0.0",
+	"author": "Jane Doe",
+	"IncludeFiles": [
+		"hooks.php"
+	]
+}

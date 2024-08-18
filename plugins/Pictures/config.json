@@ -1,0 +1,8 @@
+{
+	"name": "Pictures",
+	"version": "1.0.0",
+	"author": "Alice Smith",
+	"IncludeFiles": [
+		"hooks.php"
+	]
+}

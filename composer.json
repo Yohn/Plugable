@@ -1,0 +1,23 @@
+{
+	"name": "yohns/plugable",
+	"type": "project",
+	"description": "Plugins, hooks and filters to add to your site to allow for injecting different functions at set times while your site is loading.",
+	"license": "MIT",
+	"minimum-stability": "stable",
+	"authors": [
+		{
+			"name": "John Brittain III",
+			"email": "Yohn@coming-soon.com",
+			"homepage": "https://github.com/Yohn",
+			"role": "Developer"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Yohns\\Core\\" : "Core/"
+		}
+	},
+	"require": {
+		"php": "^8.0"
+	}
+}
